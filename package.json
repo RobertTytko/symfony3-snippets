@@ -1,0 +1,20 @@
+{
+    "name": "symfony3-snippets",
+    "displayName": "Symfony3 Snippets",
+    "description": "Snippets for PHP framework Symfony 3",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "php",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
